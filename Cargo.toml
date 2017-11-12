@@ -1,0 +1,15 @@
+[package]
+name = "rust_cli_application_template"
+version = "0.1.3"
+authors = ["Viorel Bota <botaviorel@gmail.com>"]
+
+[dependencies]
+command = { path = "command" }
+convertors = { path = "convertors" }
+backend_declaration = { path = "backend_declaration" }
+log = { path = "log" }
+
+[features]
+default_log_level = []
+
+[workspace]
