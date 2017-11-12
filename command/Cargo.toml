@@ -1,0 +1,6 @@
+[package]
+name = "command"
+version = "0.1.1"
+authors = ["Viorel Bota <botaviorel@gmail.com>"]
+
+[dependencies]
