@@ -1,0 +1,9 @@
+[package]
+name = "backend_declaration"
+version = "0.1.1"
+authors = ["Viorel Bota <botaviorel@gmail.com>"]
+
+[dependencies]
+backend_command_example = { path = "../backend_command_example" }
+command = { path = "../command" }
+about = { path = "../about" }
