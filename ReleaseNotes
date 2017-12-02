@@ -10,6 +10,5 @@ To Do:
 	1 define Package metadata in Cargo
 	2 implement automatic generation of release notes
 	3 update build.sh to do just build
-	4 implement run.sh
-	5 get Licence text from external files
-	6 read new commands dynamic
+	4 get Licence text from external files
+	5 read new commands dynamic
