@@ -2,6 +2,6 @@
 
 cd ~/rust_cli_application_template
 
-RUST_TEST_THREADS=1 cargo test --all
+cargo run about ana: She has onions help
 
 read line
